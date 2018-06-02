@@ -1,0 +1,12 @@
+{
+  "name": "react-slider",
+  "version": "0.0.1",
+  "description": "React slidershow component",
+  "main": "index.js",
+  "repository": "https://github.com/rysev-a/react-slider.git",
+  "author": "Rysev Alexey",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.0"
+  }
+}
